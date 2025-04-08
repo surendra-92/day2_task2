@@ -1,5 +1,5 @@
 # day2_task2
-In this repository exxplain about sales data using power bi bussiness insights effective way
+In this explain about sales data using power bi bussiness insights effective way
 first i downloded file from kaggle dataset super store data
 * by using power bi i created dashboard
 * step1:-open power bi then import file excel or sql other source
